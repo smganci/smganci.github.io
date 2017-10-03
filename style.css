@@ -1,0 +1,122 @@
+h1{
+    
+    color: rgb(210, 99, 55);
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+    font-kerning: auto;
+    font-size: 75px;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+      
+    color: rgb(54, 127, 209);
+    
+}
+
+h2 , h3 {
+  
+    font-family: sans-serif;
+}
+
+h3{
+/*    color: rgb(173,155,223);*/
+    color: rgb(70,250,100);
+    
+}
+
+
+
+body{
+
+    
+    background-image: url("./painting.JPG");
+
+    background-attachment: fixed;
+    color:white;
+    font-family:  "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    text-align: left;
+    font-size: 20px;
+        
+}
+ 
+
+
+
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;;
+    overflow: hidden;
+    background-color: #936DAD;
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+
+.nav {
+    float: left;  
+}
+
+
+
+
+
+
+a:hover{
+    background-color: rgb(94,64,114);
+/*    font-size: 200px;*/
+}
+
+
+
+
+.nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:20px;  
+    font-family: monospace;
+}
+
+
+
+span{
+    padding: 15px;
+}
+
+.trans{
+    background-color: rgba(0,0,0,.5);
+   /* text-align: center; */
+    border-radius: 25px;
+    padding: 15px;
+/*    border-style: dashed;*/
+/*    border-color:  rgb(150,50,100);*/
+/*    text-align: justify;*/
+/*    white-space: nowrap;*/
+/*    display:inline-block;*/
+}
+
+.button {
+    background-color:darkblue; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    font-family: monospace;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.button:hover{
+    background-color:darkmagenta;
+}
+
+
