@@ -41,6 +41,13 @@ body{
         
 }
  
+a{
+    color:white;
+}
+
+a:hover{
+    color:purple;
+}
 
 
 
