@@ -58,6 +58,10 @@ body{
     background-color: darkmagenta;
 }
 
+=======
+
+}
+>>>>>>> 7700508377f32854360676e8efd2297c5fbb5e22
 
 
 .navbar {
@@ -117,4 +121,24 @@ span{
 /*    display:inline-block;*/
 }
 
+.button {
+    background-color:darkblue; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    font-family: monospace;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+    display: inline-block;
+    font-size: 20px;
+}
 
+<<<<<<< HEAD
+=======
+.button:hover{
+    background-color:darkmagenta;
+}
+
+
+>>>>>>> 7700508377f32854360676e8efd2297c5fbb5e22
