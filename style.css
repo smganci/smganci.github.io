@@ -60,9 +60,6 @@ body{
 }
 
 
-
-
-
 .navbar {
     list-style-type: none;
     margin: 0;
@@ -110,14 +107,9 @@ span{
 
 .trans{
     background-color: rgba(0,0,0,.5);
-   /* text-align: center; */
     border-radius: 25px;
     padding: 15px;
-/*    border-style: dashed;*/
-/*    border-color:  rgb(150,50,100);*/
-/*    text-align: justify;*/
-/*    white-space: nowrap;*/
-/*    display:inline-block;*/
+
 }
 
 
