@@ -1,6 +1,12 @@
 h1{
     
-    color: rgb(210, 99, 55);
+    color:rgb(214, 0, 32);
+/*    color:rgb(255, 95, 15);*/
+/*   color:	rgb(255,140,0);*/
+/*    color: rgb(	160, 40, );*/
+/*    text-shadow: 2px 2px #b03060;*/
+/* text-shadow: 2px 2px rgb(255, 0, 128);*/
+  
     text-align: center;
     font-family: "Gill Sans", sans-serif;
     font-kerning: auto;
@@ -32,7 +38,11 @@ body{
 
     
     background-image: url("./painting.JPG");
-
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  background-size: cover;
+  
     background-attachment: fixed;
     color:white;
     font-family:  "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
